@@ -22,6 +22,7 @@
 - GLMakie has gained support for HiDPI (aka Retina) screens.
   This also enables saving images with higher resolution than screen pixel dimensions.
   [#2544](https://github.com/MakieOrg/Makie.jl/pull/2544)
+- Added scroll-to-pan optional functionality [#2688](https://github.com/MakieOrg/Makie.jl/pull/2688)
 
 ## v0.19.1
 
